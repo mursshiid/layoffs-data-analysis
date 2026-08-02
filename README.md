@@ -48,4 +48,4 @@ streamlit run app.py
 
 ---
 Murshid — Data Analytics Intern, working on becoming a data analyst.
-[LinkedIn](www.linkedin.com/in/muhammed-murshidm) · [GitHub](https://github.com/mursshiid)
+[LinkedIn](https://www.linkedin.com/in/muhammed-murshidm) · [GitHub](https://github.com/mursshiid)
