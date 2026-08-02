@@ -11,7 +11,11 @@ ACCENT = '#8C54FF'       # secondary accent - used for highlights
 SEVERITY_SCALE = 'RdBu_r'  # diverging scale reserved for severity/negative metrics
 SEQUENTIAL_SCALE = 'Blues'  # reserved for map/magnitude
 PLOTLY_TEMPLATE = 'plotly_white'
-CHART_CONFIG = {'displayModeBar': False}  # hide floating toolbar for a cleaner look
+CHART_CONFIG = {
+    'displayModeBar': 'hover',
+    'modeBarButtonsToRemove': ['lasso2d', 'select2d', 'autoScale2d'],
+    'displaylogo': False
+}
 
 # ---------- White theme + card styling ----------
 st.markdown("""
