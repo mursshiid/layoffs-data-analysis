@@ -1,2 +1,4 @@
-visuals/*.html linguist-generated=true
-visuals/*.html linguist-vendored=true
+*.html linguist-generated=true
+*.html linguist-vendored=true
+visuals/** linguist-generated=true
+visuals/** linguist-vendored=true
